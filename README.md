@@ -6,11 +6,11 @@
 
 I build websites for **shops, studios and practices**: Wix sites with custom Velo code, and Next.js builds for projects that have outgrown a site builder.
 
-| | |
-|:--|:--|
-| **Studying** | MEng Computer Science & Artificial Intelligence, University of Southampton · First in Year 1 |
-| **Freelancing** | Live client sites since 2022, from booking systems to ecommerce |
-| **Looking for** | Summer 2027 software engineering internships |
+<table>
+  <tr><td><b>Studying</b></td><td>Computer Science &amp; Artificial Intelligence, University of Southampton · First in Year 1</td></tr>
+  <tr><td><b>Freelancing</b></td><td>Live client sites since 2022, from stylish studio sites to ecommerce</td></tr>
+  <tr><td><b>Looking for</b></td><td>Summer 2027 internships</td></tr>
+</table>
 
 <p>
   <a href="https://www.leogarcia.dev"><img src="https://img.shields.io/badge/leogarcia.dev-0B0E17?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
